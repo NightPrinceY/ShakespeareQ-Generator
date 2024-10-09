@@ -1,6 +1,6 @@
-#Welcome to Shakespeare Quotes Generator
+# Welcome to Shakespeare Quotes Generator
 
-#“If love be rough with you, be rough with love.” – William Shakespeare
+# “If love be rough with you, be rough with love.” – William Shakespeare
 
 Overview
 This project is an assignment for the TensorFlow course, where we create a model that generates quotes inspired by the literary genius of William Shakespeare. The objective is to immerse you in the beauty of Shakespearean language while leveraging modern machine learning techniques.
